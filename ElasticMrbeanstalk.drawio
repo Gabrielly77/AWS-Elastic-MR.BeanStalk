@@ -34,6 +34,12 @@
         <mxCell id="SAvaUUXx-h0IU91rrAJy-19" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontSize=56;" vertex="1" parent="1">
           <mxGeometry x="-20" y="438" width="40" height="8" as="geometry" />
         </mxCell>
+        <mxCell id="SAvaUUXx-h0IU91rrAJy-23" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="95" width="1088" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="SAvaUUXx-h0IU91rrAJy-24" value="" style="dashed=0;html=1;shape=mxgraph.aws3.cloud;fillColor=#F58536;gradientColor=none;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="90" width="52" height="36" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
